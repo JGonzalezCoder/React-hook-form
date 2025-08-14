@@ -1,0 +1,38 @@
+/*Layout*/
+.container {
+	padding-left: 4rem;
+	padding-right: 4rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 1rem;
+	height: 100%;
+}
+
+.field {
+	padding: 0.5rem;
+	padding-left: 0.75rem;
+	border: 1px solid black;
+	border-radius: 0.25rem;
+}
+
+.item {
+	display: flex;
+	flex-direction: column;
+}
+
+.button {
+	padding: 0.5rem 1rem;
+	border: 1px solid blue;
+	border-radius: 0.25rem;
+}
+
+/*Theme*/
+.container {
+	font-family: sans-serif;
+}
+
+.button {
+	color: white;
+	background-color: blue;
+}
