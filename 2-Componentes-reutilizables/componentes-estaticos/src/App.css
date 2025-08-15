@@ -1,0 +1,14 @@
+/*Layout*/
+.container {
+	padding-left: 4rem;
+	padding-right: 4rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 1rem;
+	height: 100%;
+}
+/*Theme*/
+.container {
+	font-family: sans-serif;
+}
