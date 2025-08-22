@@ -1,0 +1,11 @@
+/* Layout */
+.button {
+	padding: 0.5rem 1rem;
+	border: 1px solid blue;
+	border-radius: 0.25rem;
+}
+/* Theme */
+.button {
+	color: white;
+	background-color: blue;
+}

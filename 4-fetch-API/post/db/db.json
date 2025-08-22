@@ -1,0 +1,37 @@
+{
+  "leads": [
+    {
+      "id": "a891",
+      "fullname": "Jesus Gonzalez",
+      "email": "jesus@gmail.com",
+      "password": "Je231313",
+      "age": "25",
+      "ranking": "10",
+      "observations": "Muy bien!!!!",
+      "country": "ven",
+      "active": true
+    },
+    {
+      "id": "e1fd",
+      "fullname": "Jorge Gonzalez",
+      "email": "jorge@gmail.com",
+      "password": "jorge356",
+      "age": "23",
+      "ranking": "4",
+      "observations": "Muy mal!!!!",
+      "country": "arg",
+      "active": false
+    },
+    {
+      "id": "248b",
+      "fullname": "Julio Gonzalez",
+      "email": "julio@gmail.com",
+      "password": "julio355",
+      "age": "24",
+      "ranking": "7",
+      "observations": "Muy normal!!!",
+      "country": "col",
+      "active": true
+    }
+  ]
+}

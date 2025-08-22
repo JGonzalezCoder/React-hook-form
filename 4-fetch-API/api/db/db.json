@@ -1,0 +1,26 @@
+{
+  "leads": [
+    {
+      "id": "1645",
+      "fullname": "Jesus Gonzalez",
+      "email": "jesus@gmail.com",
+      "password": "jesus25",
+      "age": "25",
+      "ranking": "10",
+      "observations": "Muy bien!!!!",
+      "country": "ven",
+      "active": true
+    },
+    {
+      "id": "6c54",
+      "fullname": "Jorge Gonzalez",
+      "email": "jorge@gmail.com",
+      "password": "jorge23",
+      "age": "23",
+      "ranking": "0",
+      "observations": "Muy mal!!!",
+      "country": "per",
+      "active": false
+    }
+  ]
+}
